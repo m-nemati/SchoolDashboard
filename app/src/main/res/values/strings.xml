@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">School Dashboard</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="start">Start</string>
+
+    <string name="about_name">برنامه نویسان:</string>
+    <string name="hmr_name">حمیدرضا ضیایی</string>
+    <string name="mn_name">مصطفی نعمتی</string>
+</resources>

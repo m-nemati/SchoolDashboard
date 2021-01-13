@@ -4,8 +4,10 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
 
     <string name="start">Start</string>
+    <string name="expo">expo</string>
 
     <string name="about_name">برنامه نویسان:</string>
     <string name="hmr_name">حمیدرضا ضیایی</string>
     <string name="mn_name">مصطفی نعمتی</string>
+    <string name="dev_apps">سایر برنامه های ما در کافه بازار</string>
 </resources>

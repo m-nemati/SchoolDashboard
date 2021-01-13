@@ -66,5 +66,13 @@
         android:layout_width="match_parent"
         android:layout_height="2dp"
         android:background="#c0c0c0"/>
+    <Button
+        android:id="@+id/btn_devApps"
+        android:textSize="25sp"
+        android:text="@string/dev_apps"
+        android:background="@color/orange"
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"/>
 
 </LinearLayout>

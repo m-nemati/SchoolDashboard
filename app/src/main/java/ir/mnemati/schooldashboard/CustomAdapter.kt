@@ -16,12 +16,14 @@ class CustomAdapter(private val data:List<DataModel>): BaseAdapter() {
 
         val img_sites:CircleImageView = view.findViewById(R.id.img_sites)
         val tv_sites:TextView = view.findViewById(R.id.tv_sites)
+        val tv_url:TextView = view.findViewById(R.id.tv_url)
         val tv_expo:TextView = view.findViewById(R.id.tv_expo)
 
         val id = parent.context.resources.getIdentifier(data1.img, "drawable", parent.context.packageName)
         img_sites.setImageResource(id)
 
         tv_sites.text = data1.name
+        tv_url.text = data1.url
         tv_expo.text = data1.expo
 
         return view

@@ -11,4 +11,8 @@
     <string name="hmr_name">حمیدرضا ضیایی</string>
     <string name="mn_name">مصطفی نعمتی</string>
     <string name="dev_apps">سایر برنامه های ما در کافه بازار</string>
+
+    <string name="menu_light">Light Theme</string>
+    <string name="menu_dark">Dark Theme</string>
+    <string name="menu_exit">Exit</string>
 </resources>
